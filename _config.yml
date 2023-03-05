@@ -1,0 +1,63 @@
+# Site settings
+title: iCue
+email: info@icue.uk
+url: https://robotica.media/
+description: "iCue is a fully automated Cued Speech transliteration tool to listen on behalf of Deaf people."
+meta_author: Robotica Machine Learning Limited
+skills: "I will listen for you"
+# Google webmaster tools
+google_verify:
+
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
+
+# Contact form:
+# - static : pass through formspree.io to validate email sending
+# - disqus : replace contact form by disqus thread
+# - comment the line below if you want to stick with the default PHP contact form
+contact: static
+
+# If you use disqus you need disqus shortname
+# https://help.disqus.com/customer/portal/articles/466208
+disqus_shortname: robotica_icue
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 19A9D8 
+  primary-rgb: "42,53,60"
+  secondary: 19A9D8 
+  secondary-dark: 6b869a
+
+# Footer settings
+footer:
+  copyright: Robotica Machine Learning Limited
+  location: Norwich, United Kingdom
+  social: roboticaml
+  credits: Robotica Machine Learning Limited
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: http://twitter.com/roboticaml
+  - title: facebook
+    url:
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: Robotica, 61-63 Riverside Road
+  - line: Norwich NR1 1SR, UK
+
+# Credits content
+credits: '©2023 Robotica Mahcine Learning Limited'
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+#for posts
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      permalink: ""
