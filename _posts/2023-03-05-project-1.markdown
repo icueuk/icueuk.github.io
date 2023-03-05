@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 1
+date: 2023-03-05
+img: maisey.png
+alt: Maisey
+project-date: April 2014
+client: Maisey
+url: "https://embed.api.video/vod/vi3g9Dj0eJ4bdbyhJbCfE2PA"
+category: Schools, Education
+description: There are more than 50,000 families with deaf children in the UK.  If they don't learn language by the time they are 5 years old, it is very hard for them to catch up. They need to see what people are saying.  Being able to lipread well helps them to learn language naturally. 
+---
